@@ -242,6 +242,10 @@ Amazon CloudWatch monitors EC2 metrics such as:
 
 CloudWatch metrics automatically trigger scaling policies when thresholds are reached.
 
+### Screenshot
+
+![Cloudwatch Metrics](screenshots/cloudwatch-metrics.png)
+
 ---
 
 # High Availability Strategy
