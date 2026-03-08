@@ -18,7 +18,7 @@ By deploying resources across **multiple Availability Zones**, the architecture 
 
 # Architecture Diagram
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](screenshots/architecture-diagram.png)
 
 ## Architecture Flow
 
