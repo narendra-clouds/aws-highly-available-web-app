@@ -267,7 +267,7 @@ The system was tested to confirm that load balancing and auto scaling function c
 
 The Load Balancer DNS was accessed through a browser. Refreshing the page shows responses from **different EC2 instances**, proving that traffic is distributed across servers.
 
-![Load Balancer Test](screenshots/load-balancer-test.png)
+![Load Balancer Test](screenshots/application-running.png)
 
 ---
 
@@ -285,7 +285,7 @@ The Auto Scaling Group automatically launched a new instance to maintain the des
 
 Scaling activities can be observed in the Auto Scaling **Activity History**.
 
-![ASG Activity](screenshots/asg-activity.png)
+![ASG Activity](screenshots/asg-recovery.png)
 
 ---
 
